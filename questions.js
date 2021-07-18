@@ -16,7 +16,7 @@ questions =  [
     {"id": 14, "question": "I align with the Independent People's Party more than the Commune Party.", "effects": {"pop": 1}},
     {"id": 15, "question": "Exile should remain a part of the Mock Government criminal code.", "effects": {"for": -1}},
     {"id": 16, "question": "Implementation of regions was too rushed.", "effects": {"soc": -1}},
-    {"id": 17, "question": "Clever is more Establishment than Populist.", "effects": {"pop": -1}},
+    {"id": 17, "question": "Clever is more Establishment than Populist.", "effects": {"pop": 1}},
     {"id": 18, "question": "Quaky has served his time properly.", "effects": {"for": 1}},
     {"id": 19, "question": "The idea of mayors was ahead of its time.", "effects": {"soc": 1}},
     {"id": 20, "question": "Stan/PA were elected because they were the best candidates on the ballot.", "effects": {"pop": 1}},
