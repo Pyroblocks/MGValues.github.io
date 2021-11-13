@@ -14,4 +14,8 @@ questions =  [
     {"id": 9, "question": "Court discussion channels should be private.", "effects": {"mod": 1}},
     {"id": 10, "question": "More pre-reset parts of the server should be added.", "effects": {"fed": 1}},
     {"id": 11, "question": "Economic activity will be better sparked by promoting individual activity than by instating group policies such as taxation.", "effects": {"fed": 1}},
+    
+    {"id": 12, "question": "The NGEC channel should be viewable by the public to ensure transparency.", "effects": {"mod": -1}},
+    {"id": 13, "question": "The idea of sub-regional positions is flawed.", "effects": {"fed": -1}},
+    {"id": 14, "question": "We need to provide and utilize monetary institutions.", "effects": {"ali": -1}},
 ];
