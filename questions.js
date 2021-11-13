@@ -9,7 +9,7 @@ questions =  [
     
     {"id": 6, "question": "Reform should be the top priority of any Presidential administration.", "effects": {"mod": -1}},
     {"id": 7, "question": "The electoral voting system has failed without any way of redemption.", "effects": {"fed": -1}},
-    {"id": 8, "question": "Mock Government Businesses should pay a portion of their profit in taxes to the treasury.", "effects": {"ali": -1}},
+    {"id": 8, "question": "Mock Government businesses should pay a portion of their profit in taxes to the treasury.", "effects": {"ali": -1}},
     
     {"id": 9, "question": "Court discussion channels should be private.", "effects": {"mod": 1}},
     {"id": 10, "question": "More pre-reset parts of the server should be added.", "effects": {"fed": 1}},
