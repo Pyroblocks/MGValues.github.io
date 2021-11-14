@@ -8,7 +8,7 @@ questions =  [
     {"id": 5, "question": "Integrating the economy further into the Mock Government will create economic activity.", "effects": {"ali": 1}},
     
     {"id": 6, "question": "Reform should be the top priority of any Presidential administration.", "effects": {"mod": -1}},
-    {"id": 7, "question": "The electoral voting system has failed without any way of redemption.", "effects": {"fed": -1}},
+    {"id": 7, "question": "The electoral college election system has failed without any way of redemption.", "effects": {"fed": -1}},
     {"id": 8, "question": "Mock Government businesses should pay a portion of their profit in taxes to the treasury to create a stronger national bank.", "effects": {"ali": -1}},
     
     {"id": 9, "question": "Court discussion channels should be private.", "effects": {"mod": 1}},
