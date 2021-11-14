@@ -22,4 +22,8 @@ questions =  [
     {"id": 15, "question": "The courts should be given less power.", "effects": {"mod": 1}},
     {"id": 16, "question": "Regions were implemented well post-reset.", "effects": {"fed": 1}},
     {"id": 17, "question": "A regular loss of money via taxation in the economy will reduce incentive to participate in the economy.", "effects": {"ali": 1}},
+    
+    {"id": 18, "question": "Jolly was the sole cause of instability on September 29th, 2021.", "effects": {"mod": -1}},
+    {"id": 19, "question": "Regions currently hold a sufficient amount of power.", "effects": {"fed": -1}},
+    {"id": 20, "question": "Reforming the shop is not an effective way to create economic activity.", "effects": {"ali": -1}},
 ];
