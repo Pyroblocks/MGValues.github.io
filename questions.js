@@ -31,7 +31,7 @@ questions =  [
     {"id": 22, "question": "Elected Representatives and Governors should pay more attention to their regions than their work in the House of Representatives.", "effects": {"fed": 1}},
     {"id": 23, "question": "The current system of role income doesn't negatively affect the economy.", "effects": {"ali": 1}},
     
-    {"id": 24, "question": "Effective communication with staff will not benefit the Mock Government.", "effects": {"mod": -1}},
+    {"id": 24, "question": "Effective communication with staff will never benefit the Mock Government.", "effects": {"mod": -1}},
     {"id": 25, "question": "", "effects": {"fed": -1}},
     {"id": 26, "question": "", "effects": {"ali": -1}},
 ];
