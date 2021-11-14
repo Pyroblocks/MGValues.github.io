@@ -32,6 +32,6 @@ questions =  [
     {"id": 23, "question": "The current system of role income doesn't negatively affect the economy.", "effects": {"ali": 1}},
     
     {"id": 24, "question": "Effective communication with staff will never benefit the Mock Government.", "effects": {"mod": -1}},
-    {"id": 25, "question": "", "effects": {"fed": -1}},
-    {"id": 26, "question": "", "effects": {"ali": -1}},
+    {"id": 25, "question": "Giving regions too much power can be dangerous.", "effects": {"fed": -1}},
+    {"id": 26, "question": "Regions should have their own economies.", "effects": {"ali": -1}},
 ];
