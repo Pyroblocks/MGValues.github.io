@@ -12,7 +12,7 @@ questions =  [
     {"id": 8, "question": "Mock Government businesses should pay a portion of their profit in taxes to the treasury to create a stronger national bank.", "effects": {"ali": -1}},
     
     {"id": 9, "question": "Court discussion channels should be private.", "effects": {"mod": 1}},
-    {"id": 10, "question": "More pre-reset parts of the server should be added.", "effects": {"fed": 1}},
+    {"id": 10, "question": "Mock Government parts of the server that were removed months ago should be re-added.", "effects": {"fed": 1}},
     {"id": 11, "question": "Economic activity will be better sparked by promoting individual activity than by instating group policies such as taxation.", "effects": {"ali": 1}},
     
     {"id": 12, "question": "The NGEC channel should be viewable by the public to ensure transparency.", "effects": {"mod": -1}},
@@ -28,6 +28,10 @@ questions =  [
     {"id": 20, "question": "Reforming the shop is not an effective way to create economic activity.", "effects": {"ali": -1}},
     
     {"id": 21, "question": "Long term goals are more important than short term goals.", "effects": {"mod": 1}},
-    {"id": 22, "question": "", "effects": {"fed": 1}},
+    {"id": 22, "question": "Elected Representatives and Governors should pay more attention to their regions than their work in the House of Representatives.", "effects": {"fed": 1}},
     {"id": 23, "question": "The current system of role income doesn't negatively affect the economy.", "effects": {"ali": 1}},
+    
+    {"id": 24, "question": "Effective communication with staff will not benefit the Mock Government.", "effects": {"mod": -1}},
+    {"id": 25, "question": "", "effects": {"fed": -1}},
+    {"id": 26, "question": "", "effects": {"ali": -1}},
 ];
