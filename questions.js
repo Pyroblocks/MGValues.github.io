@@ -21,5 +21,5 @@ questions =  [
     
     {"id": 15, "question": "The courts should be given less power.", "effects": {"mod": 1}},
     {"id": 16, "question": "Regions were implemented well post-reset.", "effects": {"fed": 1}},
-    {"id": 17, "question": "Giving out federal income for holding positions will damage the economy.", "effects": {"ali": 1}},
+    {"id": 17, "question": "A regular loss of money via taxation in the economy will reduce incentive to participate in the economy.", "effects": {"ali": 1}},
 ];
