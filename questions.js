@@ -26,4 +26,8 @@ questions =  [
     {"id": 18, "question": "Jolly was the sole cause of instability on September 29th, 2021.", "effects": {"mod": -1}},
     {"id": 19, "question": "Regions currently hold a sufficient amount of power.", "effects": {"fed": -1}},
     {"id": 20, "question": "Reforming the shop is not an effective way to create economic activity.", "effects": {"ali": -1}},
+    
+    {"id": 21, "question": "Long term goals are more important than short term goals.", "effects": {"mod": 1}},
+    {"id": 22, "question": "", "effects": {"fed": 1}},
+    {"id": 23, "question": "The current system of role income doesn't negatively affect the economy.", "effects": {"ali": 1}},
 ];
