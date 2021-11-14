@@ -1,7 +1,7 @@
 questions =  [
     {"id": 0, "question": "Those who recieve punishments should not have what they were punished for held against them after they've served their punishment.", "effects": {"mod": -1}},
     {"id": 1, "question": "The idea of Regional Courts is flawed.", "effects": {"fed": -1}},
-    {"id": 2, "question": "We should not be afriad to implement taxes if necessary.", "effects": {"ali": -1}},
+    {"id": 2, "question": "We should not be afraid to implement taxes if necessary.", "effects": {"ali": -1}},
     
     {"id": 3, "question": "The House of Representatives should be the only legislative body that may vote on bills.", "effects": {"mod": 1}},
     {"id": 4, "question": "The general community should be prioritized over individual rights.", "effects": {"fed": 1}},
