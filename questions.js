@@ -12,7 +12,7 @@ questions =  [
     {"id": 8, "question": "Mock Government businesses should pay a portion of their profit in taxes to the treasury to create a stronger national bank.", "effects": {"ali": -1}},
     
     {"id": 9, "question": "Court discussion channels should be private.", "effects": {"mod": 1}},
-    {"id": 10, "question": "Mock Government parts of the server that were removed months ago should be re-added.", "effects": {"fed": 1}},
+    {"id": 10, "question": "We should revisit and readd old parts of the Mock Government.", "effects": {"fed": 1}},
     {"id": 11, "question": "Economic activity will be better sparked by promoting individual activity than by instating group policies such as taxation.", "effects": {"ali": 1}},
     
     {"id": 12, "question": "The NGEC channel should be viewable by the public to ensure transparency.", "effects": {"mod": -1}},
