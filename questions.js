@@ -24,7 +24,7 @@ questions =  [
     {"id": 22, "question": "The idea of Regional Courts is flawed.", "effects": {"soc": -1}},
     {"id": 23, "question": "Niko/Wooub were objectively better to vote for than Panda/Pyro in the June 3rd-4th election.", "effects": {"pop": -1}},
     {"id": 24, "question": "We should reform systems that can be better, even if they are working fine.", "effects": {"for": 1}},
-    {"id": 25, "question": "The House of Representatives should become a legislative body for all bills.", "effects": {"soc": 1}},
+    {"id": 25, "question": "An elected Senate should be the only legislative body.", "effects": {"soc": 1}},
     {"id": 26, "question": "We should elect newer Mock Government members rather than older ones.", "effects": {"pop": 1}},
     {"id": 27, "question": "Stability should be the top priority of any administration.", "effects": {"for": -1}},
     {"id": 28, "question": "The popular vote system has shown to be the only effective voting system.", "effects": {"soc": -1}},
